@@ -1,2 +1,0 @@
-# sintaks
-sintaks
